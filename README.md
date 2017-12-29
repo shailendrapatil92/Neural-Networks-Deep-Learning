@@ -13,4 +13,4 @@ Using Logistic regression as a simple neural network and classidying if a given 
 
 4.  Planar+data+classification+with+one+hidden+layer+v4.ipynb
 Neural Network 2 layers.
-Classifying the labels of image into its corresponding labels uing a 2 layer neural network 
+Classifying the data into its corresponding labels uing a 2 layer neural network 
