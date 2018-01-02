@@ -1,16 +1,18 @@
 # Neural-Networks-Deep-Learning
 This repository will contain projects related to Neural Networks, Deep Learning.
 
-1.  Python+Basics+With+Numpy+v3.ipynb    
-This contains basic numpy functions and how to use them,  how to reshape numpy arrays . This also has code that shows             about vectorization.
 
-2.  Neural_Networks.ipynb  
-Simple Neurlal Network with one hidden Layer
-To Solve the parity bit problem. The desired output for the parity problem is 1 if an input pattern contains an odd number of 1's and 0 otherwise.
+1.	Python+Basics+With+Numpy+v3.ipynb:
+This contains basic numpy functions and how to use them, how to reshape numpy arrays . This also has code that shows about vectorization.
 
-3.  Logistic+Regression+with+a+Neural+Network+mindset+v4.ipynb  
-Using Logistic regression as a simple neural network and classidying if a given image is of cat or not.
+2.	Image Classification Logistic Regression:
+This folder contains Image classification using Logistic regression used as simple neural net.
 
-4.  Planar+data+classification+with+one+hidden+layer+v4.ipynb
-Neural Network 2 layers.
-Classifying the data into its corresponding labels uing a 2 layer neural network 
+3.	Parity Bit Using Neural Network
+Simple Neural Network with one hidden Layer to solve parity bit
+
+4.	Image Classification Using Deep Neural Net
+Image Classification using Deep Neural Network. 
+
+4.	Planar Data Classification with one hidden layer
+2 layer Neural Network. 
